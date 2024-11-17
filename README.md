@@ -1,10 +1,13 @@
 # script-download-linkimg-html
-Script para baixar imagens de html com atributo linkimg
+Script Powershell para baixar imagens de html com atributo linkimg
 
 Como funciona este script para fazer download de imagem dos links de atributo 'linkimg'
 
 neste arquivo  tem dois scripts um para pegar os links do atributo linkimg e outro para transforma as imagens em pdf
 caso seja varios imagens como livro por exemplo
+
+
+### Requisitos: ter o Powershell no dispositivo windows 
 
 
 ### 1. copie o html do site com vários links de imagens e coloque o arquivo .html, ele vai puxar no html somente links dentro do atributo 'linkimg'
